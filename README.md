@@ -1,6 +1,8 @@
 ok-glass
 ========
 
+Mirror API:
+========
 
 
 Dependence 
@@ -43,6 +45,9 @@ $ mvn war:war
 
 
 
-
-========
 "Ok, glass ..."
+========
+
+
+GDK Demo API:
+========
