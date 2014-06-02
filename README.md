@@ -51,3 +51,4 @@ $ mvn war:war
 
 GDK Demo API:
 ========
+[Here](https://github.com/kgao/ok-glass/tree/master/gdk)
